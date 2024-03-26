@@ -1,26 +1,28 @@
-### Hello there 👋
+ Hello there 👋
 
-#Welcome to my GitHub profile!
+Welcome to my GitHub profile!
 ---------------------------------
-##About Me
+About Me
 ----------------------------------
 My name is David Adeleke and I am a budding data analyst with a passion for working with data and deriving insights to drive decision-making.
 I am quite competent in different advanced tools widely used in the industry, I am eager to learn and grow even more in the field of data analysis.
 
-----------------------------------------------
-
-##About Me
+---------------------------------------------
+Skills
+--------------------------
 
 Peoficient in Microsoft Excel for data manipulation and analysis.
 Skilled in PowerBI for data visualization and reporting
 Experienced in using Google Query for data extraction and transformation.
 
 -----------------------------------------------
-##Projects
+Projects
+-----------------------------------
 I am currently working on some personal projects to showcase my skills in data analysis. Stay tuned for updates on my Github repository!
 -------------------
 
-##Contact Me
+Contact 
+-------------------------
 Feel free to reach out to me via email at adelekedavid77@gmail.com for any collaboration opportunities or to connect with me on LinkedIn
 
 Let's dive into the world of data together and uncover valuable insights!
