@@ -19,6 +19,7 @@ Experienced in using Google Query for data extraction and transformation.
 Projects
 -----------------------------------
 I am currently working on some personal projects to showcase my skills in data analysis. Stay tuned for updates on my Github repository!
+
 -------------------
 
 Contact 
