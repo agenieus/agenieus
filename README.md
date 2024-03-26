@@ -11,9 +11,9 @@ I am quite competent in different advanced tools widely used in the industry, I 
 
 ## Skills
 
-Peoficient in use of Microsoft Excel for data manipulation and analysis.
-Skilled in PowerBI for data visualization and reporting
-Experienced in using Google Query for data extraction and transformation.
+- Proficient in use of Microsoft Excel for data manipulation and analysis.
+- Skilled in PowerBI for data visualization and reporting
+- Experienced in using Google Query for data extraction and transformation.
 
 
 ## Projects
