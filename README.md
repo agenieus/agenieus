@@ -6,7 +6,7 @@
 ## About Me
 
 My name is David Adeleke and I am a budding data analyst with a passion for working with data and deriving insights to drive decision-making.
-I am quite competent in different advanced tools widely used in the industry, I am eager to learn and grow even more in the field of data analysis.
+I am quite competent in different advanced tools widely used in the industry, I am eager to collaborate and assist in helping provide solutions to the problem in whatsoever the data is  centered about, i am also eager to learn and grow even more in the field of data analysis.
 
 
 ## Skills
