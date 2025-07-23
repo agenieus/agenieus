@@ -5,12 +5,17 @@
 ---------------------------------
 ## About Me
 
-My name is David Adeleke and I am a budding data analyst with a passion for working with data and deriving insights to drive decision-making.
-I am quite competent in different advanced tools widely used in the industry, I am eager to collaborate and assist in helping provide solutions to the problem in whatsoever the data is  centered about, i am also eager to learn and grow even more in the field of data analysis.
+My name is David Adeleke and I am a budding Software Developer with a passion for creating systems and structures that are stable and solid for commercial use.
+I am quite competent in different advanced tools widely used in the industry, I am eager to collaborate and assist in helping provide solutions to the problem, i am also eager to learn and grow even more in the field of development.
 
 
 ## Skills
-
+- Hypertext Markup Language (HTML)
+- Casacade Styling Sheets (CSS)
+- JavaScript
+- Nodejs
+- Flutter (Dart)
+- Python
 - Proficient in use of Microsoft Excel for data manipulation and analysis.
 - Skilled in PowerBI for data visualization and reporting
 - Experienced in using Google Query for data extraction and transformation.
@@ -18,7 +23,7 @@ I am quite competent in different advanced tools widely used in the industry, I 
 
 ## Projects
 
-I am currently working on some personal projects to showcase my skills in data analysis. Stay tuned for updates on my Github repository!
+I am currently working on some personal projects to showcase my skills. Stay tuned for updates on my Github repository!
 
 
 
