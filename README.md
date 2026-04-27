@@ -13,9 +13,11 @@ I am quite competent in different advanced tools widely used in the industry, I 
 - Hypertext Markup Language (HTML)
 - Casacade Styling Sheets (CSS)
 - JavaScript
+- TypeScript
+- Nextjs
 - Nodejs
 - Flutter (Dart)
-- Python
+- Python (Django)
 - Proficient in use of Microsoft Excel for data manipulation and analysis.
 - Skilled in PowerBI for data visualization and reporting
 - Experienced in using Google Query for data extraction and transformation.
