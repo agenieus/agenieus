@@ -16,6 +16,7 @@ I am quite competent in different advanced tools widely used in the industry, I 
 - TypeScript
 - Nextjs
 - Nodejs
+- React Native
 - Flutter (Dart)
 - Python (Django)
 - Proficient in use of Microsoft Excel for data manipulation and analysis.
